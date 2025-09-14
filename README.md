@@ -29,8 +29,8 @@ This project analyzes loan default patterns using Dataflows to uncover borrower 
 ## Dashboards
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7acab1b-f8cb-4e22-b3aa-e1b7ff2e9d94" alt="img1" width="450" />
-  <img src="https://github.com/user-attachments/assets/e07a411f-b369-4cbe-9c7f-b4d782592885" alt="img2" width="450" />
+  <img src="https://github.com/user-attachments/assets/a7acab1b-f8cb-4e22-b3aa-e1b7ff2e9d94" alt="img1" width="900" />
+  <img src="https://github.com/user-attachments/assets/e07a411f-b369-4cbe-9c7f-b4d782592885" alt="img2" width="900" />
 </p>
 
 <p align="center">
